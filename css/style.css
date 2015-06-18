@@ -1,0 +1,100 @@
+/*Normalizing things*/
+
+html, body {
+  box-sizing: border-box;
+  font-size:14px;
+  font-family:"Helvetica"; 
+  
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+a,p,h1,h2,h3,h4,ul,li,ul li{
+	margin:0;
+	padding:0;
+	background:none;
+	border:none;
+	outline:none;
+	text-decoration:none;
+}
+
+
+/* body/container styles */
+body{
+  background-image:url("../images/argyle.png");
+}
+.container{
+  max-width:960px;
+  margin:auto;
+  width:100%;
+  box-shadow:0px 18px 82px 6px black inset;
+  background-image:url("../images/ricepaper.png");
+}
+
+/* Navigation styles */
+.navbar-default{
+opacity:0.6;
+font-size:18px;
+}
+
+.navbar-brand{
+  padding-right:33px;
+  font-size:24px;
+}
+/*login styles */
+
+.text-center{
+  padding-top:30px;
+  font-size:58px;
+}
+
+label{
+  font-weight:400;
+}
+
+#login-form{
+  padding:25px;
+  font-size:20px;
+}
+
+#login-form h3{
+  font-size:40px;
+  padding-bottom:20px;
+}
+
+#login-form input {
+  width:100%;
+   margin-bottom:20px;
+}
+
+#login-form button{
+  width:50%;
+  font-size:20px;
+}
+
+/* Content styles */
+
+.manage{
+  padding:20px;
+}
+
+.manage h1{
+  padding-bottom:20px;
+}
+
+.manage a{
+  width:42%;
+}
+
+
+.list{
+  padding:20px;
+}
+
+.list ul{
+  list-style:none;
+}
+
+.list h3{
+  padding-bottom:20px;
+}

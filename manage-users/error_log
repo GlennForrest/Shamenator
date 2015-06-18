@@ -1,0 +1,19 @@
+[18-May-2015 03:16:08 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/glenn/public_html/shamenator/manage-users/index.php on line 5
+[18-May-2015 03:17:10 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/glenn/public_html/shamenator/manage-users/index.php on line 28
+[18-May-2015 03:17:43 UTC] PHP Fatal error:  Call to undefined method AuthenticatorHelper::connectToDatabase() in /home/glenn/public_html/shamenator/manage-users/index.php on line 28
+[18-May-2015 03:18:38 UTC] PHP Fatal error:  Call to undefined method AuthenticatorHelper::connectToDatabase() in /home/glenn/public_html/shamenator/manage-users/index.php on line 28
+[18-May-2015 03:18:40 UTC] PHP Fatal error:  Call to undefined method DatabaseHelper::connectToDatabase() in /home/glenn/public_html/shamenator/manage-users/index.php on line 29
+[18-May-2015 03:19:08 UTC] PHP Fatal error:  Call to undefined method DatabaseHelper::connectToDatabase() in /home/glenn/public_html/shamenator/manage-users/index.php on line 29
+[18-May-2015 03:19:11 UTC] PHP Fatal error:  Call to private method DatabaseHelper::connect() from context '' in /home/glenn/public_html/shamenator/manage-users/index.php on line 29
+[18-May-2015 03:22:44 UTC] PHP Fatal error:  Call to private method DatabaseHelper::connect() from context '' in /home/glenn/public_html/shamenator/manage-users/index.php on line 29
+[18-May-2015 03:29:48 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/glenn/public_html/shamenator/manage-users/index.php on line 5
+[20-May-2015 09:12:15 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/glenn/public_html/shamenator/authenticator.php on line 67
+[20-May-2015 09:12:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/glenn/public_html/shamenator/authenticator.php:67) in /home/glenn/public_html/shamenator/authenticator.php on line 68
+[20-May-2015 09:12:19 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/glenn/public_html/shamenator/authenticator.php on line 67
+[20-May-2015 09:12:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/glenn/public_html/shamenator/authenticator.php:67) in /home/glenn/public_html/shamenator/authenticator.php on line 68
+[20-May-2015 09:12:19 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/glenn/public_html/shamenator/authenticator.php on line 67
+[20-May-2015 09:12:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/glenn/public_html/shamenator/authenticator.php:67) in /home/glenn/public_html/shamenator/authenticator.php on line 68
+[21-May-2015 01:19:57 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/glenn/public_html/shamenator/authenticator.php on line 67
+[21-May-2015 01:19:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/glenn/public_html/shamenator/authenticator.php:67) in /home/glenn/public_html/shamenator/authenticator.php on line 68
+[21-May-2015 06:49:51 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/glenn/public_html/shamenator/authenticator.php on line 67
+[21-May-2015 06:49:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/glenn/public_html/shamenator/authenticator.php:67) in /home/glenn/public_html/shamenator/authenticator.php on line 68

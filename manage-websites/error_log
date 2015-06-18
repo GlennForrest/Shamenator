@@ -1,0 +1,8 @@
+[18-May-2015 03:16:12 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/glenn/public_html/shamenator/manage-websites/index.php on line 5
+[18-May-2015 03:23:23 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/glenn/public_html/shamenator/manage-websites/index.php on line 5
+[20-May-2015 02:01:20 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/glenn/public_html/shamenator/manage-websites/index.php on line 5
+[21-May-2015 01:18:46 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/glenn/public_html/shamenator/authenticator.php on line 67
+[21-May-2015 01:18:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/glenn/public_html/shamenator/authenticator.php:67) in /home/glenn/public_html/shamenator/authenticator.php on line 68
+[21-May-2015 01:31:22 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/glenn/public_html/shamenator/authenticator.php on line 67
+[21-May-2015 01:31:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/glenn/public_html/shamenator/authenticator.php:67) in /home/glenn/public_html/shamenator/authenticator.php on line 68
+[25-May-2015 00:28:57 UTC] PHP Fatal error:  Cannot access empty property in /home/glenn/public_html/shamenator/logger.php on line 47
